@@ -6,8 +6,15 @@ body{
 
 #container{
     border: 1px solid gray;
+    margin: 0 auto;
 }
 
 #post h1{
     font-size: 20px;
+}
+
+#cabecera{
+    color: white;
+    font-size: 32px;
+    background-color: gray;
 }
