@@ -18,3 +18,9 @@ body{
     font-size: 32px;
     background-color: gray;
 }
+
+#footer{
+    border: 1px solid orange;
+    background-color: gray;
+    text-align:center;
+}
