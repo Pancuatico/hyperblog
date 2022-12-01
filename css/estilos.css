@@ -30,3 +30,9 @@ body{
 #tagline{
     padding-bottom: 10px;
 }
+
+#footer{
+    border: 1px solid orange;
+    background-color: gray;
+    text-align:center;
+}
