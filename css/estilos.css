@@ -20,9 +20,11 @@ body{
 }
 
 #footer{
+    display: flex;
     border: 1px solid orange;
     background-color: gray;
-    text-align:center;
+    justify-content: center;
+    align-items: center;
     color: white;
-    padding: 20px 0;
+    height: 100px;
 }
